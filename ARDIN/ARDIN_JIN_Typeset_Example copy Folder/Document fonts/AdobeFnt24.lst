@@ -1,0 +1,124 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/joshfisher/Documents/Service/ARDIN/Journal/janeway-indesign-template/ARDIN/ARDIN_JIN_Typeset_Example copy Folder/Document fonts/AdobeFnt24.lst
+FileLength:2663
+FileModTime:777317761
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/joshfisher/Documents/Service/ARDIN/Journal/janeway-indesign-template/ARDIN/ARDIN_JIN_Typeset_Example copy Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:776093092
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+MenuName:Myriad Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/joshfisher/Documents/Service/ARDIN/Journal/janeway-indesign-template/ARDIN/ARDIN_JIN_Typeset_Example copy Folder/Document fonts/MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:97124
+FileModTime:776093092
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+MenuName:Myriad Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Italic
+WritingScript:Roman
+OutlineFileName:/Users/joshfisher/Documents/Service/ARDIN/Journal/janeway-indesign-template/ARDIN/ARDIN_JIN_Typeset_Example copy Folder/Document fonts/MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:97800
+FileModTime:776093092
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro It
+NameArray:0,Mac,4,Myriad Pro Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+MenuName:Myriad Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro
+WritingScript:Roman
+OutlineFileName:/Users/joshfisher/Documents/Service/ARDIN/Journal/janeway-indesign-template/ARDIN/ARDIN_JIN_Typeset_Example copy Folder/Document fonts/MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:97072
+FileModTime:776093091
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
